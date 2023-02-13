@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon assets/image/icon_A_.png assets/cmd/main.py

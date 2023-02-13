@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon assets/image/icon_A_.png assets/graphics_hint_no/version_graphics_no_hint.py
